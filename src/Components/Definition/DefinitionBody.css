@@ -1,0 +1,39 @@
+.meaning{
+display: flex;
+flex-direction: column;
+overflow-y:scroll ;
+scrollbar-width: thin;
+height: 60vh;
+margin-top: 10px;
+border: 3px solid rgb(173, 170, 170);
+border-radius: 10px;
+overflow-x: hidden;
+
+
+
+
+}
+
+
+.sub-title{
+font-size: 3vw;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.singlemean{
+display: flex;
+flex-direction: column;
+border-radius: 10px;
+padding: 10px 20px;
+margin: 2px 0;
+}
+
+
+
+
+
+
+
+
+
